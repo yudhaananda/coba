@@ -6,4 +6,6 @@ $a = 2;
 $b = 3;
 echo "$a+$b";
 
-echo "ini tambahan"
+echo "ini tambahan";
+
+echo "udh bisa";
