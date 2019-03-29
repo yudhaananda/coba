@@ -3,9 +3,9 @@
         <title></title>
     </head>
     <body>
-        <form action="php1.php" method="get">
-            NIM : <br>
-            <input type="text" name="nim">
+        <form action="php3.php" method="get">
+            Kategori : <br>
+            <input type="text" name="kategori">
             <input type="submit">
         </form>
     </body>
